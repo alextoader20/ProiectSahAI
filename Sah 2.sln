@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.34114.132
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SahLogica", "SahLogica\SahLogica.csproj", "{7B78A329-583F-4810-A13F-27F337BC6356}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SahUI", "SahUI\SahUI.csproj", "{228E14F0-7332-4653-8E62-5802101018EC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7B78A329-583F-4810-A13F-27F337BC6356}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B78A329-583F-4810-A13F-27F337BC6356}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B78A329-583F-4810-A13F-27F337BC6356}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B78A329-583F-4810-A13F-27F337BC6356}.Release|Any CPU.Build.0 = Release|Any CPU
+		{228E14F0-7332-4653-8E62-5802101018EC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{228E14F0-7332-4653-8E62-5802101018EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{228E14F0-7332-4653-8E62-5802101018EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{228E14F0-7332-4653-8E62-5802101018EC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B95A3D54-79BA-4B76-8E7E-43AAA2D6A912}
+	EndGlobalSection
+EndGlobal
