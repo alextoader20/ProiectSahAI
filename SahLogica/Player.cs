@@ -2,9 +2,9 @@
 {
     public enum Player
     {
-        None,
+        None, //aaaaaaa
         Alb,
-        Negru
+        Negru // aadadasdasdaada
     }
 
     public static class PlayerExtensions
